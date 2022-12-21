@@ -1,8 +1,7 @@
-# Album de fotos desenvolvido com angular na versão 14.X.X
+## Album de fotos desenvolvido com angular na versão 14.X.X
 
-## Instruções para instalação
 
-## Backand
+### Instruções para instalação do BackEnd
 #### **Sem docker**
 O Backend usa o node na versão 8.11.2, se optar por subir o projeto sem docker basta instalar essa versão do node rodar `npm install` seguido de `npm start`, e o projeto já estara rodando na porta http://localhost:3000
 
@@ -20,7 +19,7 @@ Para subir o backend com docker basta realizar os seguintes passos:
  para mais comando docker visite a documentação oficial em https://docs.docker.com/compose/reference/
  
  
-## FrontEnd
+### Instruções para instalação do FrontEnd
 
 #### Para rodar o projeto angular basta entrar na pasta frontend via terminal e digitar `npm install` e em seguida digitar `npm start´ ou `ng serve`, o projeto estará rodando na porta localhost: 4200.
 
